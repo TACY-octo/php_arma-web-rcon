@@ -1,0 +1,14 @@
+{
+    "name": "cyril/administration_arma3",
+    "type": "project",
+    "require": {
+        "nizarii/arma-rcon-class": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "nexao",
+            "email": "exacted.nexao@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
